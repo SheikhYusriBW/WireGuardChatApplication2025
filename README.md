@@ -2,13 +2,6 @@
 
 A secure, encrypted chat application implementing WireGuard protocols for end-to-end encrypted communication. Built as part of a University of Cape Town computer science project.
 
-## Authors
-- **Kabelo Mbayi** (MBYKAB002)
-- **Siyanda Makhathini** (MKHSIY057) 
-- **Simphiwe Mkhize** (MKHSIM067)
-
-*University of Cape Town - May 31, 2025*
-
 ## Overview
 
 This application provides secure real-time messaging using WireGuard's robust encryption protocols. It features a modern GUI with support for channels, direct messaging, and comprehensive user management, all protected by state-of-the-art cryptographic implementations.
